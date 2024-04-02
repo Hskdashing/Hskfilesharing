@@ -1,6 +1,6 @@
 # (©)Codexbotz
 # Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# t.me/SharingUserbot & t.me/hskdashing
 
 import logging
 import os
